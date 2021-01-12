@@ -3,9 +3,4 @@ class Dog
         @name = name
         @breed = breed
     end
-
-    #def 
-        
-    #end
-
 end
